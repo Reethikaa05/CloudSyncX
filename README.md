@@ -2,9 +2,9 @@
 
 <div align="center">
   <p><strong>A high-performance, asynchronous REST API connector for GitHub built with FastAPI & Python.</strong></p>
+  <a href="https://github.com/Reethikaa05/CloudSyncX"><img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" /></a>
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/GitHub_API-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub API" />
 </div>
 
 <br />
@@ -75,7 +75,8 @@ graph TD
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-# Inside the VS Code terminal
+git clone https://github.com/Reethikaa05/CloudSyncX.git
+cd CloudSyncX
 pip install -r requirements.txt
 ```
 
